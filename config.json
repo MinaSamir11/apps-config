@@ -16,7 +16,7 @@
       "endDate": "2030-12-20"
     },
     "updateProfile": {
-      "enabled": false,
+      "enabled": true,
       "endDate": "2030-12-20"
     }
   }
