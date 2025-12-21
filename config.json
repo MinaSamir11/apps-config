@@ -5,15 +5,15 @@
   "features": {
     "biometric": {
       "enabled": true,
-      "endDate": "2025-12-20"
+      "endDate": "2030-12-20"
     },
     "share": {
       "enabled": true,
-      "endDate": "2025-12-20"
+      "endDate": "2030-12-20"
     },
     "contact": {
       "enabled": true,
-      "endDate": "2025-12-20"
+      "endDate": "2030-12-20"
     }
   }
 }
