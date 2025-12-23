@@ -5,19 +5,19 @@
   "features": {
     "biometric": {
       "enabled": false,
-      "endDate": "2030-12-20"
+      "endDate": "2050-12-20"
     },
     "share": {
       "enabled": false,
-      "endDate": "2030-12-20"
+      "endDate": "2050-12-20"
     },
     "contact": {
       "enabled": false,
-      "endDate": "2030-12-20"
+      "endDate": "2050-12-20"
     },
     "updateProfile": {
       "enabled": false,
-      "endDate": "2030-12-20"
+      "endDate": "2050-12-20"
     },
     "adminCustomerTabs": {
       "enabled": false,
