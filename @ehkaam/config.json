@@ -18,6 +18,10 @@
     "updateProfile": {
       "enabled": false,
       "endDate": "2030-12-20"
+    },
+    "adminCustomerTabs": {
+      "enabled": true,
+      "endDate": "2050-12-25"
     }
   }
 }
