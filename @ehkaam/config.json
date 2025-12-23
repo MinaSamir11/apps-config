@@ -4,19 +4,19 @@
   "copyrightEnabled": true,
   "features": {
     "biometric": {
-      "enabled": true,
+      "enabled": false,
       "endDate": "2030-12-20"
     },
     "share": {
-      "enabled": true,
+      "enabled": false,
       "endDate": "2030-12-20"
     },
     "contact": {
-      "enabled": true,
+      "enabled": false,
       "endDate": "2030-12-20"
     },
     "updateProfile": {
-      "enabled": true,
+      "enabled": false,
       "endDate": "2030-12-20"
     }
   }
