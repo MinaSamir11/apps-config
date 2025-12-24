@@ -23,8 +23,8 @@
       "enabled": true,
       "endDate": "2050-12-25"
     },
-    "cart": {"enabled": true, "endDate": "2050-12-25"},
-    "checkout": {"enabled": true, "endDate": "2050-12-25"},
-    "orders": {"enabled": true, "endDate": "2050-12-25"}
+    "cart": {"enabled": false, "endDate": "2050-12-25"},
+    "checkout": {"enabled": false, "endDate": "2050-12-25"},
+    "orders": {"enabled": false, "endDate": "2050-12-25"}
   }
 }
