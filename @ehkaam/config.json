@@ -12,7 +12,7 @@
       "endDate": "2050-12-20"
     },
     "contact": {
-      "enabled": false,
+      "enabled": true,
       "endDate": "2050-12-20"
     },
     "updateProfile": {
