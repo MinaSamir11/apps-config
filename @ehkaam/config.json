@@ -8,19 +8,19 @@
       "endDate": "2050-12-20"
     },
     "share": {
-      "enabled": true,
+      "enabled": false,
       "endDate": "2050-12-20"
     },
     "contact": {
-      "enabled": true,
+      "enabled": false,
       "endDate": "2050-12-20"
     },
     "updateProfile": {
-      "enabled": true,
+      "enabled": false,
       "endDate": "2050-12-20"
     },
     "adminCustomerTabs": {
-      "enabled": true,
+      "enabled": false,
       "endDate": "2050-12-25"
     },
     "cart": {"enabled": false, "endDate": "2050-12-25"},
