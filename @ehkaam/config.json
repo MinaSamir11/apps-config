@@ -8,7 +8,7 @@
       "endDate": "2050-12-20"
     },
     "share": {
-      "enabled": false,
+      "enabled": true,
       "endDate": "2050-12-20"
     },
     "contact": {
@@ -16,15 +16,15 @@
       "endDate": "2050-12-20"
     },
     "updateProfile": {
-      "enabled": false,
+      "enabled": true,
       "endDate": "2050-12-20"
     },
     "adminCustomerTabs": {
       "enabled": true,
       "endDate": "2050-12-25"
     },
-    "cart": {"enabled": true, "endDate": "2050-12-25"},
-    "checkout": {"enabled": true, "endDate": "2050-12-25"},
-    "orders": {"enabled": true, "endDate": "2050-12-25"}
+    "cart": {"enabled": false, "endDate": "2050-12-25"},
+    "checkout": {"enabled": false, "endDate": "2050-12-25"},
+    "orders": {"enabled": false, "endDate": "2050-12-25"}
   }
 }
