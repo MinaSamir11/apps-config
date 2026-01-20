@@ -1,7 +1,7 @@
 {
   "featureEndDate": "2030-12-20",
   "copyrightMessage": "تم تطوير هذا التطبيق بواسطة إحكام للمحاماة",
-  "copyrightEnabled": true,
+  "copyrightEnabled": false,
   "features": {
     "biometric": {
       "enabled": true,
