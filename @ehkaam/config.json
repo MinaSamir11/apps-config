@@ -4,7 +4,7 @@
   "copyrightEnabled": true,
   "features": {
     "biometric": {
-      "enabled": true,
+      "enabled": false,
       "endDate": "2050-12-20"
     },
     "share": {
@@ -12,7 +12,7 @@
       "endDate": "2050-12-20"
     },
     "contact": {
-      "enabled": true,
+      "enabled": false,
       "endDate": "2050-12-20"
     },
     "updateProfile": {
@@ -20,11 +20,11 @@
       "endDate": "2050-12-20"
     },
     "adminCustomerTabs": {
-      "enabled": true,
+      "enabled": false,
       "endDate": "2050-12-25"
     },
-    "cart": {"enabled": true, "endDate": "2050-12-25"},
-    "checkout": {"enabled": true, "endDate": "2050-12-25"},
-    "orders": {"enabled": true, "endDate": "2050-12-25"}
+    "cart": {"enabled": false, "endDate": "2050-12-25"},
+    "checkout": {"enabled": false, "endDate": "2050-12-25"},
+    "orders": {"enabled": false, "endDate": "2050-12-25"}
   }
 }
